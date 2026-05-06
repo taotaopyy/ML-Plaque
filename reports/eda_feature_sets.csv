@@ -1,0 +1,4 @@
+feature_set,n_features,description
+A_baseline,79,Demographics + history + baseline labs + CTA morphology/plaque/FFRct
+B_baseline_plus_postop,83,A + postop biomarkers
+C_all,107,A + B + followup labs/echo (retrospective only)
