@@ -40,7 +40,9 @@ from features import (
 warnings.filterwarnings("ignore", category=UserWarning)
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "data" / "final_paired_analysis_ml.csv"
+DATA = ROOT / "data" / "final_paired_analysis_ml_clean.csv"
+if not DATA.exists():
+    DATA = ROOT / "data" / "final_paired_analysis_ml.csv"
 OUT = ROOT / "reports"
 OUT.mkdir(exist_ok=True)
 

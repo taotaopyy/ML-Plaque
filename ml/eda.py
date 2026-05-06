@@ -13,7 +13,10 @@ from features import (
     build_feature_sets,
 )
 
-DATA = Path(__file__).resolve().parent.parent / "data" / "final_paired_analysis_ml.csv"
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+DATA = DATA_DIR / "final_paired_analysis_ml_clean.csv"
+if not DATA.exists():
+    DATA = DATA_DIR / "final_paired_analysis_ml.csv"
 OUT = Path(__file__).resolve().parent.parent / "reports"
 OUT.mkdir(exist_ok=True)
 
