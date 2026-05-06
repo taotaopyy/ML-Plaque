@@ -1,0 +1,86 @@
+row_index,accession_id,column,old_value,rule
+1066,ZS0036989752,baseline_creatinine,0.0,== 0
+1067,ZS0036989752,baseline_creatinine,0.0,== 0
+2037,ZS0046140066,baseline_creatinine,0.0,== 0
+2076,ZS0046719385,baseline_creatinine,0.0,== 0
+274,ZS0028428181,followup_creatinine,0.0,== 0
+831,ZS0034522472,followup_creatinine,0.0,== 0
+929,ZS0035713164,followup_creatinine,0.0,== 0
+930,ZS0035713164,followup_creatinine,0.0,== 0
+931,ZS0035713164,followup_creatinine,0.0,== 0
+1073,ZS0037022196,followup_creatinine,0.0,== 0
+1074,ZS0037022196,followup_creatinine,0.0,== 0
+2037,ZS0046140066,baseline_albumin,0.0,== 0
+2076,ZS0046719385,baseline_albumin,0.0,== 0
+831,ZS0034522472,followup_albumin,0.0,== 0
+368,ZS0029332830,baseline_pdw,0.0,== 0
+941,ZS0035835312,baseline_pdw,0.0,== 0
+942,ZS0035835312,baseline_pdw,0.0,== 0
+943,ZS0035835312,baseline_pdw,0.0,== 0
+1836,ZS0043370156,baseline_pdw,0.0,== 0
+368,ZS0029332830,followup_pdw,0.0,== 0
+432,ZS0030134060,followup_pdw,0.0,== 0
+941,ZS0035835312,followup_pdw,0.0,== 0
+942,ZS0035835312,followup_pdw,0.0,== 0
+943,ZS0035835312,followup_pdw,0.0,== 0
+1133,ZS0037500434,followup_pdw,0.0,== 0
+1134,ZS0037500434,followup_pdw,0.0,== 0
+1388,ZS0039461332,followup_pdw,0.0,== 0
+1389,ZS0039461332,followup_pdw,0.0,== 0
+1836,ZS0043370156,followup_pdw,0.0,== 0
+673,ZS0033373722,baseline_ck_mb,-1.0,< 0
+674,ZS0033373722,baseline_ck_mb,-1.0,< 0
+1073,ZS0037022196,baseline_ck_mb,-1.0,< 0
+1074,ZS0037022196,baseline_ck_mb,-1.0,< 0
+1663,ZS0041668866,postop_ck_mb,-1.0,< 0
+1664,ZS0041668866,postop_ck_mb,-1.0,< 0
+1665,ZS0041668866,postop_ck_mb,-1.0,< 0
+102,ZS0027000363,remodeling_index,324.7366074924,> 10
+325,ZS0028957976,remodeling_index,423.0202115062,> 10
+346,ZS0029073829,remodeling_index,116.1123697881,> 10
+478,ZS0031547884,remodeling_index,446.3438589274,> 10
+528,ZS0032025218,remodeling_index,553.8450065644,> 10
+548,ZS0032114354,remodeling_index,831.2775258846,> 10
+741,ZS0033873716,remodeling_index,1972.3810651585,> 10
+836,ZS0034600230,remodeling_index,1385.0480096138,> 10
+858,ZS0034960686,remodeling_index,1349.4856728828,> 10
+1101,ZS0037206145,remodeling_index,1287.7261242499,> 10
+1335,ZS0039002825,remodeling_index,496.4463598141,> 10
+1465,ZS0040046362_1,remodeling_index,1970.0127106882,> 10
+1658,ZS0041587459,remodeling_index,1727.4776781219,> 10
+1987,ZS0045631541,remodeling_index,1613.8732045905,> 10
+2007,ZS0045765477,remodeling_index,527.8499542707,> 10
+2018,ZS0045910754,remodeling_index,459.1068154509,> 10
+2036,ZS0046125115,remodeling_index,11.2233683381,> 10
+2051,ZS0046407980,remodeling_index,448.0382932688,> 10
+2073,ZS0046709296,remodeling_index,1330.9008547043,> 10
+2164,ZS0048185090,remodeling_index,1462.50863395,> 10
+2182,ZS0048512874,remodeling_index,550.2375939312,> 10
+142,ZS0027283260,max_hu,0.0,compound HU sentinel (all zero)
+168,ZS0027441667,max_hu,0.0,compound HU sentinel (all zero)
+386,ZS0029531821,max_hu,0.0,compound HU sentinel (all zero)
+681,ZS0033489670,max_hu,0.0,compound HU sentinel (all zero)
+1251,ZS0038490883,max_hu,0.0,compound HU sentinel (all zero)
+1889,ZS0043861176,max_hu,0.0,compound HU sentinel (all zero)
+2008,ZS0045765477,max_hu,0.0,compound HU sentinel (all zero)
+142,ZS0027283260,min_hu,0.0,compound HU sentinel (all zero)
+168,ZS0027441667,min_hu,0.0,compound HU sentinel (all zero)
+386,ZS0029531821,min_hu,0.0,compound HU sentinel (all zero)
+681,ZS0033489670,min_hu,0.0,compound HU sentinel (all zero)
+1251,ZS0038490883,min_hu,0.0,compound HU sentinel (all zero)
+1889,ZS0043861176,min_hu,0.0,compound HU sentinel (all zero)
+2008,ZS0045765477,min_hu,0.0,compound HU sentinel (all zero)
+142,ZS0027283260,mean_hu,0.0,compound HU sentinel (all zero)
+168,ZS0027441667,mean_hu,0.0,compound HU sentinel (all zero)
+386,ZS0029531821,mean_hu,0.0,compound HU sentinel (all zero)
+681,ZS0033489670,mean_hu,0.0,compound HU sentinel (all zero)
+1251,ZS0038490883,mean_hu,0.0,compound HU sentinel (all zero)
+1889,ZS0043861176,mean_hu,0.0,compound HU sentinel (all zero)
+2008,ZS0045765477,mean_hu,0.0,compound HU sentinel (all zero)
+142,ZS0027283260,std_hu,0.0,compound HU sentinel (all zero)
+168,ZS0027441667,std_hu,0.0,compound HU sentinel (all zero)
+386,ZS0029531821,std_hu,0.0,compound HU sentinel (all zero)
+681,ZS0033489670,std_hu,0.0,compound HU sentinel (all zero)
+1251,ZS0038490883,std_hu,0.0,compound HU sentinel (all zero)
+1889,ZS0043861176,std_hu,0.0,compound HU sentinel (all zero)
+2008,ZS0045765477,std_hu,0.0,compound HU sentinel (all zero)
